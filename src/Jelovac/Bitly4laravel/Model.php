@@ -16,7 +16,7 @@ class Model {
     /**
      * Bit.ly API version
      */
-    const API_VERSION = "v3";
+    const API_VERSION = "v4";
 
     /**
      * Bitly Generic OAuth access token
